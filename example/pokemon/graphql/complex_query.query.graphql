@@ -1,0 +1,5 @@
+query complex_query($input: [complexObjects!]!) {
+    pokemon_complex(objects: $input) {
+        id
+    }
+}

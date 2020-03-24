@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'fragments_glob.dart';
+part of 'fragments_glob.graphql.dart';
 
 // **************************************************************************
 // JsonSerializableGenerator

@@ -21,3 +21,6 @@ targets:
             - schema: pokemon.schema.graphql
               queries_glob: graphql/fragments_glob.query.graphql
               output: lib/graphql/fragments_glob.dart
+            - schema: pokemon.schema.graphql
+              queries_glob: graphql/complex_query.query.graphql
+              output: lib/graphql/complex_query.dart
